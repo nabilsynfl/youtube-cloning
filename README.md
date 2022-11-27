@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# youtube-cloning
+![mobile](https://user-images.githubusercontent.com/97229948/204116871-4be8b54a-6500-4c3a-8d4c-06c08036882a.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# Getting Started
+
+- clone your repository
+- run "npm -i"
+- ng serve
+
+You are good to go. Happy Coding!
 
 ## Available Scripts
 
@@ -68,7 +76,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# youtube-cloning
-![mobile](https://user-images.githubusercontent.com/97229948/204116871-4be8b54a-6500-4c3a-8d4c-06c08036882a.png)
+
 
 
