@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1021e1e4.css",
+    "main.js": "/static/js/main.8805d68d.js",
+    "static/media/youtubeBanner.png": "/static/media/youtubeBanner.11192bfb6ecf03c69ae8.png",
+    "static/media/logo-white.png": "/static/media/logo-white.cd190d22e9a3b5e982ff.png",
+    "static/media/youtubeLogo.png": "/static/media/youtubeLogo.622d20fd34a880b9355c.png",
+    "index.html": "/index.html",
+    "main.1021e1e4.css.map": "/static/css/main.1021e1e4.css.map",
+    "main.8805d68d.js.map": "/static/js/main.8805d68d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1021e1e4.css",
+    "static/js/main.8805d68d.js"
+  ]
+}
